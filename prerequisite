@@ -1,0 +1,15 @@
+Open telegram 
+
+search for Botfather
+
+start the bot
+use command : /newbot
+name your bot
+
+After sucessfully naming your bot you will get the bot token after the keyword "HTTP API:"
+save both the token and username you will need that in the code
+
+use /setdescription to set the description for your bot
+
+
+
